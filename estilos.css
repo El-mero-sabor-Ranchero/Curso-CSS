@@ -1,12 +1,6 @@
-p{
-	color: #f00; 
+h2 p{
+	color: orange;
 }
-.sub-azul{
-	color:aqua;
-}
-#titulo{
-	color:orange;
-}
-[queso="oh"]{
-	color:peru;
+.hg p{
+	color:crimson;
 }
