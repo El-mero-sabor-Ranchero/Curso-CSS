@@ -1,9 +1,3 @@
-h2 p{
-	color: orange;
-}
-.hg p{
-	color:crimson;
-}
-h2 span{
-	color: cyan;
+h2 b:hover {
+	color:orangered;
 }
