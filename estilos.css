@@ -5,5 +5,8 @@ p{
 	color:aqua;
 }
 #titulo{
-	color:orange
+	color:orange;
+}
+[queso="oh"]{
+	color:peru;
 }
