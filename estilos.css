@@ -1,24 +1,13 @@
 /*Selector por atributo*/
-[lel="orange"]{
-	color: orange;
-}
-/*Selector por ID*/
-#purple{
-	color:purple
-}
-/*Selector de tipo*/
 h1 {
-	color:greenyellow
-}
-/*Selector por clases*/
-.color-aqua {
-	color:aquamarine
+	color: orange;
 }
 /*Selector por pseudo-clases */
 b:hover{
-	color:orangered
+	color:rgb(0, 255, 0)
 }
-/*!important*/
-h1 {
-	color:grey !important
+
+/*Acá vamos a colocar el ejemplo de la metodología de BEM*/
+.contact-form__input--active{
+	color:blueviolet
 }
