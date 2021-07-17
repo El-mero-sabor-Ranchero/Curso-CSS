@@ -18,3 +18,7 @@ h1 {
 b:hover{
 	color:orangered
 }
+/*!important*/
+h1 {
+	color:grey !important
+}
