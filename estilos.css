@@ -1,17 +1,23 @@
 /*Selector por atributo*/
 h1 {
 	color: orange;
-	font-size: 50px /*Esto es una medida fija*/
+	font-size: 50px; /*Esto es una medida fija*/
 }
 /*Selector por pseudo-clases */
 b:hover{
-	color:rgb(0, 255, 0)
+	color:rgb(0, 255, 0);
 }
-
+h2{
+	color:rgb(0, 255, 0);
+}
 /*Acá vamos a colocar el código para las unidades*/
-.contact-form{
-	font-size:20px /*Recuerda que ahora el em vale 20px como lo colocamos aquí*/
+*{
+	padding: 0px;
+	margin: 0px;
 }
-.contact-form__h2{
-	font-size: 2em
+.contact-form{
+	font-size:20px; /*Recuerda que ahora el em vale 20px como lo colocamos aquí*/
+	background-color: #000;
+	width: 100vw;
+	height: 100vh;
 }
