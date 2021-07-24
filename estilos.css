@@ -1,3 +1,4 @@
+/*Esto es el código que aplica lo que voy aprendiendo*/
 /*Selector por atributo*/
 h1 {
 	color: orange;
@@ -8,4 +9,15 @@ h1 {
 b:hover{
 	color:rgb(0, 255, 0);
 }
-/*Acá vamos a colocar el código para las propiedades de texto*/
+/*Acá vamos a colocar el código para el normalize y los ejercicios en los cursos*/
+*{
+	font-family: 'Lobster', cursive;
+	font-weight: 100;
+}
+.contact-form {
+	font-size: 25px;
+}
+.contact-form__h2{
+	font-size: 2em;
+	color: orange;
+}
