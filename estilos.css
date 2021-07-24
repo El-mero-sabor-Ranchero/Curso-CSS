@@ -8,19 +8,4 @@ h1 {
 b:hover{
 	color:rgb(0, 255, 0);
 }
-h2{
-	color:rgb(0, 255, 0);
-}
 /*Acá vamos a colocar el código para las propiedades de texto*/
-.contact-form {
-	font-size: 25px;
-}
-
-.contact-form__h2{
-	font-size: 2em;
-	font-family: 'Lobster', cursive;
-	line-height: 1.9;
-	font-weight: normal;
-	/*font-stretch: normal;
-	font-variant: small-caps;*/ /* Estas son bien inútiles y casi ni se usan */
-}
