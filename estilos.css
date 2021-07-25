@@ -6,29 +6,20 @@
 	font-size: 30px;
 }
 
-/*Código para los ejercicios del cuerso */
 /*
-Nota:
-Podemos hacer esto pero si no tuvieras que colocar otras propiedades:
-.caja1, .caja2 {
-	width: 200px;
-	height: 200px;
-}
-
-De esa forma nos ahorramos el código extra
+Código para los ejercicios
 */
-.caja1 {
-	width: 200px;
-	height: 200px;
+/*
+	Ejercicio:
+	¿Qué pasaría si tuvieramos cajas de varios colores y queremos diferenciar una?
+*/
+div{
+	height: 150px;
+	width: 150px;
 	background-color: aquamarine;
-	margin: auto;
-	outline: 10px solid black;
-	box-sizing: content-box;
+	display: inline-block;
 }
-.caja2 {
-	width: 200px;
-	height: 200px;
-	background-color: rgb(250, 176, 79);
-	margin: auto;
+.caja3 {
+	outline: 2px dashed darkblue; /*Si dejamos esto nadamás, no veremos el contorno completo de la caja3*/
+	position: relative; /* Con esto lo podremos visualizar */
 }
-
