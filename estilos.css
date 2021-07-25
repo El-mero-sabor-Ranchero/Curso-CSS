@@ -1,0 +1,32 @@
+
+/*Esto siempre va a venir en el encabezado supongo*/
+*{
+	font-family: 'lobster', cursive;
+	font-weight: 100;
+	font-size: 30px;
+}
+
+/*Código para los ejercicios del cuerso */
+/*
+Nota:
+Podemos hacer esto pero si no tuvieras que colocar otras propiedades:
+.caja1, .caja2 {
+	width: 200px;
+	height: 200px;
+}
+
+De esa forma nos ahorramos el código extra
+*/
+.caja1 {
+	width: 200px;
+	height: 200px;
+	background-color: aquamarine;
+	margin: auto;
+}
+.caja2 {
+	width: 200px;
+	height: 200px;
+	background-color: rgb(250, 176, 79);
+	margin: auto;
+}
+
