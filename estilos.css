@@ -22,6 +22,8 @@ De esa forma nos ahorramos el código extra
 	height: 200px;
 	background-color: aquamarine;
 	margin: auto;
+	border: 10px solid black;
+	box-sizing: content-box;
 }
 .caja2 {
 	width: 200px;
