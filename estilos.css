@@ -18,9 +18,11 @@ b:hover{
 h2 {
 	display: inline-block;
 	background-color: aquamarine;
-	padding: 20px 40px 30px 40px;
-	height: 100px;
-	width: 100px;
-	box-sizing: content-box;
+	padding: 100px;
+	box-sizing: border-box;
 	text-align: center;
+	margin: 20px 10px;
+	border-radius: 2em;
+	border: 10px ridge gray;
+	box-shadow: 2px 4px 15px 0 rebeccapurple;
 }
