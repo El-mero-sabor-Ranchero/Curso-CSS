@@ -24,5 +24,7 @@ h2 {
 	margin: 20px 10px;
 	border-radius: 2em;
 	border: 10px ridge gray;
-	box-shadow: 2px 4px 15px 0 rebeccapurple;
+	box-shadow: 9px 10px 15px 9px rebeccapurple, 9px 10px 15px 9px rebeccapurple;
+	text-shadow: 2px 2px 7px #fff, 2px 2px 7px #fff, 2px 2px 7px #fff;
+	transform: rotate(1deg);
 }
